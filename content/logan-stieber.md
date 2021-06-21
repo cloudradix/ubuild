@@ -1,6 +1,5 @@
 +++
 date = 2021-06-17T04:00:00Z
-draft = true
 layout = "blocks"
 title = "Logan Stieber"
 [[page_sections]]

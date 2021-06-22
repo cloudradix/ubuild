@@ -27,10 +27,10 @@ image = ""
 block = "feature-1"
 content = "Lorem ipsum something hereLorem ipsum something hereLorem ipsum something hereLorem ipsum something hereLorem ipsum something hereLorem ipsum something hereLorem ipsum something hereLorem ipsum something hereLorem ipsum something here"
 headline = "More from Testingly"
-media_alignment = "Left"
+media_alignment = "Right"
 template = "content-feature"
 [page_sections.media]
-alt_text = ""
+alt_text = "something here"
 image = "/uploads/2018/06/21/forestry-symbol.svg"
 
 +++

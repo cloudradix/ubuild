@@ -31,6 +31,6 @@ media_alignment = "Left"
 template = "content-feature"
 [page_sections.media]
 alt_text = ""
-image = "/uploads/2018/06/21/drone-photo.jpeg"
+image = "/uploads/2018/06/21/forestry-symbol.svg"
 
 +++

@@ -32,5 +32,21 @@ template = "content-feature"
 [page_sections.media]
 alt_text = "something here"
 image = "/uploads/2018/06/21/forestry-symbol.svg"
+[[page_sections]]
+block = "three-column-1"
+template = "3-column-text"
+[page_sections.col_1]
+content = "rimraf public ; git add . ; git commit -m \"fresh pull\" ; git pull origin masterrimraf public ; git add . ; git commit -m \"fresh pull\" ; git pull origin masterrimraf public ; git add . ; git commit -m \"fresh pull\" ; git pull origin master"
+headline = "Something"
+[page_sections.col_2]
+content = "rimraf public ; git add . ; git commit -m \"fresh pull\" ; git pull origin masterrimraf public ; git add . ; git commit -m \"fresh pull\" ; git pull origin masterrimraf public ; git add . ; git commit -m \"fresh pull\" ; git pull origin master"
+headline = "Something Less"
+[page_sections.col_3]
+content = "rimraf public ; git add . ; git commit -m \"fresh pull\" ; git pull origin masterrimraf public ; git add . ; git commit -m \"fresh pull\" ; git pull origin masterrimraf public ; git add . ; git commit -m \"fresh pull\" ; git pull origin master"
+headline = "Equal to!"
+[[page_sections]]
+block = "footer-1"
+content = ""
+template = "simple-footer"
 
 +++

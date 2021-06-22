@@ -12,7 +12,7 @@ link_text = ""
 link_url = ""
 [[page_sections]]
 block = "hero-1"
-heading = ""
+heading = "My headline here!"
 template = "text-only-hero-banner"
 [[page_sections]]
 block = "feature-1"

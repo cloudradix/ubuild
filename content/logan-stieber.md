@@ -5,12 +5,14 @@ title = "Logan Stieber"
 [[page_sections]]
 block = "header-2"
 logo = "/uploads/2018/06/21/forestry-full.svg"
-navigation = []
 template = "navigation-header-w-button"
 [page_sections.cta]
 link_text = ""
 link_url = ""
 open_in_new_tab = false
+[[page_sections.navigation]]
+link_text = "Testing"
+link_url = "/testing/"
 [[page_sections]]
 block = "header-3"
 logo = "/uploads/2018/06/21/forestry-full.svg"
